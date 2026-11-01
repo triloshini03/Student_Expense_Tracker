@@ -22,3 +22,11 @@ Student Expense Tracker is a Java-based application designed to help students ma
 1. Clone or download the repository.
 2. Open the project in VS Code.
 3. Compile and run the main Java file.
+   
+## Project Output
+
+### Add and View Expenses
+![Output 1](output1.png)
+
+### Total and Delete Expenses
+![Output 2](output2.png)
